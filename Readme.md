@@ -21,14 +21,6 @@ It has options for the user to select the category of the required animal.
 It also has Contact Us feature in the navbar where the user can contact admin in case of any query.
 In case of admin login , admin is allowed to add and delete animals which will be reflected on both admin and user side.
 
-Front-end languages:
-HTML: Hyper Text Markup Language is a front end language to create basic outline of a website. It provides various tags and attributes to hold the content which is displayed in the browser. It defines the structure of a web page.
-CSS: Cascading StyleSheet is a style-sheet language that defines how a web page should look to the user.
-Bootstrap: It is HTML, CSS, JavaScript framework, which is used to create responsive mobile first web pages. It is basically a CSS and JavaScript file which contains a set of classes and functions which you include in your web page.
-
-Back-end languages:
-Nodejs: Nodejs is an open source server environment which allows the javascript html css code to run on server. It is used for the traditional websites and back-end API services.
-Mongodb: It is No SQL database that stores data in JSON like format using schemas. It makes use of Object Data Modelling library called mongoose
 
 <img width="663" alt="er-diagram" src="https://user-images.githubusercontent.com/105939674/221400147-7f9b1347-2bf9-4e39-9975-1d025403f2e9.png">
 
