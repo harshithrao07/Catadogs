@@ -30,3 +30,5 @@ Back-end languages:
 Nodejs: Nodejs is an open source server environment which allows the javascript html css code to run on server. It is used for the traditional websites and back-end API services.
 Mongodb: It is No SQL database that stores data in JSON like format using schemas. It makes use of Object Data Modelling library called mongoose
 
+<img width="663" alt="er-diagram" src="https://user-images.githubusercontent.com/105939674/221400147-7f9b1347-2bf9-4e39-9975-1d025403f2e9.png">
+
