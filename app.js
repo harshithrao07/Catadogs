@@ -13,7 +13,7 @@ app.use(bodyParser.urlencoded({ extended: true }));
 app.set('view engine', 'ejs');
 app.use(express.static("public"));
 app.use(express.json())
-mongoose.connect("mongodb+srv://admin-harshith:Test123@cluster0.ydoselo.mongodb.net/CatadogsDB");
+mongoose.connect("mongodb+srv://admin-harshith:admin-password@cluster0.ydoselo.mongodb.net/CatadogsDB");
 mongoose.set('strictQuery', true);
 
 const Storage = multer.diskStorage({
