@@ -21,7 +21,7 @@ It has options for the user to select the category of the required animal.
 It also has Contact Us feature in the navbar where the user can contact admin in case of any query.
 In case of admin login , admin is allowed to add and delete animals which will be reflected on both admin and user side.
 
-SCREENSHOTS
+SCREENSHOTS:
 Login and Signup Page:-
 ![](screenshots/login.png)
 ![](screenshots/signup.png)
