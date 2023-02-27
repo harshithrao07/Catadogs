@@ -24,3 +24,4 @@ In case of admin login , admin is allowed to add and delete animals which will b
 
 <img width="663" alt="er-diagram" src="https://user-images.githubusercontent.com/105939674/221400147-7f9b1347-2bf9-4e39-9975-1d025403f2e9.png">
 
+[embed]Catadogs.pdf[/embed]
