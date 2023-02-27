@@ -3,6 +3,7 @@ CATADOGS is an animal friendly website created to make the stray animals feel sa
 The Front-End languages used for building this website are HTML, CSS and JavaScript and the languages used for Back-End are Node.js, Express.js and MongoDB along with the help of EJS templates.
 
 ### Getting Started
+Node must be installed on your computer
 ``` 
     npm install 
     node app.js
