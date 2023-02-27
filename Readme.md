@@ -21,6 +21,27 @@ It has options for the user to select the category of the required animal.
 It also has Contact Us feature in the navbar where the user can contact admin in case of any query.
 In case of admin login , admin is allowed to add and delete animals which will be reflected on both admin and user side.
 
+SCREENSHOTS
+Login and Signup Page:-
+![](screenshots/login.png)
+![](screenshots/signup.png)
+
+Homepage
+![](screenshots/homepage.png)
+
+Dogs and Cats Page
+![](screenshots/adoptdog.png)
+![](screenshots/adoptcat.png)
+
+Adoption Form
+![](screenshots/adoptionform.png)
+
+Contact Us Form
+![](screenshots/contactus.png)
+
+Admin Dashboard
+![](screenshots/admindog.png)
+![](screenshots/admincat.png)
 
 <img width="663" alt="er-diagram" src="https://user-images.githubusercontent.com/105939674/221400147-7f9b1347-2bf9-4e39-9975-1d025403f2e9.png">
 
